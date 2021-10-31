@@ -1,0 +1,46 @@
+[
+  {
+    "products": [
+      {
+        "nombre": "test",
+        "descripcion": "agregar",
+        "codigo": "200",
+        "foto": "nada",
+        "precio": "30",
+        "Stock": "4",
+        "id": 1,
+        "timestamp": 1635715544551
+      }
+    ],
+    "id": 1,
+    "timestamp": 1635718635548
+  },
+  {
+    "products": [
+      {
+        "nombre": "ttt",
+        "descripcion": "agregar",
+        "codigo": "900",
+        "foto": "nada66",
+        "precio": "300",
+        "Stock": "400"
+      }
+    ],
+    "id": 2,
+    "timestamp": 1635718825516
+  },
+  {
+    "products": [
+      {
+        "nombre": "t",
+        "descripcion": "a",
+        "codigo": "9",
+        "foto": "n",
+        "precio": "3",
+        "Stock": "4"
+      }
+    ],
+    "id": 3,
+    "timestamp": 1635718865583
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "nombre": "test",
+    "descripcion": "test asd",
+    "codigo": 100,
+    "foto": "asdasd",
+    "precio": "100",
+    "stock": 20,
+    "id": 1
+  },
+  {
+    "nombre": "rrr",
+    "descripcion": "ttt",
+    "codigo": "100",
+    "foto": "hhu",
+    "precio": "555",
+    "stock": "4",
+    "id": 2,
+    "timestamp": 1635696269138
+  },
+  {
+    "nombre": "rrr",
+    "descripcion": "ttt",
+    "codigo": "100",
+    "foto": "hhu",
+    "precio": "555",
+    "stock": "4",
+    "id": 3,
+    "timestamp": 1635696275492
+  },
+  {
+    "nombre": "hola",
+    "descripcion": "probando",
+    "codigo": "desde",
+    "foto": "postman",
+    "precio": "que",
+    "stock": "pasa",
+    "id": 4,
+    "timestamp": 1635696368366
+  },
+  {
+    "nombre": "hola",
+    "descripcion": "probando",
+    "codigo": "desde",
+    "foto": "postman",
+    "precio": "que",
+    "stock": "pasa",
+    "id": 5,
+    "timestamp": 1635696958883
+  },
+  {
+    "nombre": "hola",
+    "descripcion": "probando",
+    "codigo": "desde",
+    "foto": "postman",
+    "precio": "que",
+    "stock": "pasa",
+    "id": 6,
+    "timestamp": 1635697331028
+  },
+  {
+    "nombre": "hola",
+    "descripcion": "probando",
+    "codigo": "desde",
+    "foto": "postman",
+    "precio": "que",
+    "stock": "pasa",
+    "id": 7,
+    "timestamp": 1635697884508
+  },
+  {
+    "nombre": "hola",
+    "descripcion": "probando",
+    "codigo": "desde",
+    "foto": "postman",
+    "precio": "que",
+    "stock": "pasa",
+    "id": 8,
+    "timestamp": 1635698189836
+  }
+]
